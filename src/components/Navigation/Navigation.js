@@ -30,7 +30,7 @@ const Navigation = ({ toggle }) => {
     <IconContext.Provider value={{ color: '#fff'}}>
       <Nav scrollNav={scrollNav}>
         <NavContainer>
-          <NavLogo to="/" onClick={toggleHome}>Dollar</NavLogo>
+          <NavLogo to={process.env.PUBLIC_URL + '/'} onClick={toggleHome}>Dollar</NavLogo>
           <MobileIcon onClick={toggle}>
             <FaBars />
           </MobileIcon>
@@ -77,7 +77,7 @@ const Navigation = ({ toggle }) => {
             </NavItem>
           </NavMenu>
           <NavBtn>
-            <NavBtnLink to="/signin">Sign In</NavBtnLink>
+            <NavBtnLink to={process.env.PUBLIC_URL + '/signin'}>Sign In</NavBtnLink>
           </NavBtn>
         </NavContainer>
       </Nav>

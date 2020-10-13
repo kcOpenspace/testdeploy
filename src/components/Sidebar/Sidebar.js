@@ -15,7 +15,7 @@ const Sidebar = ({ isOpen, toggle }) => {
           <SidebarLink to="signup" onClick={toggle}>Sign Up</SidebarLink>
         </SidebarMenu>
         <SidebarBtnWrap>
-          <SidebarRoute to="/signin">Sign In</SidebarRoute>
+          <SidebarRoute to={process.env.PUBLIC_URL + '/signin'}>Sign In</SidebarRoute>
         </SidebarBtnWrap>
       </SidebarWrap>
     </SidebarContainer>
