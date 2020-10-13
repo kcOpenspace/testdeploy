@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/testdeploy/static/css/main.5f361e03.chunk.css",
-    "main.js": "/testdeploy/static/js/main.e901c420.chunk.js",
-    "main.js.map": "/testdeploy/static/js/main.e901c420.chunk.js.map",
+    "main.css": "/testdeploy/static/css/main.5c603e17.chunk.css",
+    "main.js": "/testdeploy/static/js/main.6d0685ca.chunk.js",
+    "main.js.map": "/testdeploy/static/js/main.6d0685ca.chunk.js.map",
     "runtime-main.js": "/testdeploy/static/js/runtime-main.2694ced7.js",
     "runtime-main.js.map": "/testdeploy/static/js/runtime-main.2694ced7.js.map",
-    "static/js/2.e6d5e801.chunk.js": "/testdeploy/static/js/2.e6d5e801.chunk.js",
-    "static/js/2.e6d5e801.chunk.js.map": "/testdeploy/static/js/2.e6d5e801.chunk.js.map",
+    "static/js/2.12c5977b.chunk.js": "/testdeploy/static/js/2.12c5977b.chunk.js",
+    "static/js/2.12c5977b.chunk.js.map": "/testdeploy/static/js/2.12c5977b.chunk.js.map",
     "index.html": "/testdeploy/index.html",
-    "precache-manifest.277cad5b7ea686a2d98c42410646200e.js": "/testdeploy/precache-manifest.277cad5b7ea686a2d98c42410646200e.js",
+    "precache-manifest.231d763a7e8bfe9d5f185d92e7424e4e.js": "/testdeploy/precache-manifest.231d763a7e8bfe9d5f185d92e7424e4e.js",
     "service-worker.js": "/testdeploy/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/testdeploy/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.e6d5e801.chunk.js.LICENSE.txt": "/testdeploy/static/js/2.e6d5e801.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/testdeploy/static/media/logo.5d5d9eef.svg"
+    "static/css/main.5c603e17.chunk.css.map": "/testdeploy/static/css/main.5c603e17.chunk.css.map",
+    "static/js/2.12c5977b.chunk.js.LICENSE.txt": "/testdeploy/static/js/2.12c5977b.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/testdeploy/static/media/svg-1.fe547334.svg",
+    "static/media/svg-2.svg": "/testdeploy/static/media/svg-2.c974ff5c.svg",
+    "static/media/svg-3.svg": "/testdeploy/static/media/svg-3.785a8806.svg",
+    "static/media/svg-4.svg": "/testdeploy/static/media/svg-4.4a122f73.svg",
+    "static/media/video.mp4": "/testdeploy/static/media/video.3ea0931b.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.2694ced7.js",
-    "static/js/2.e6d5e801.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e901c420.chunk.js"
+    "static/js/2.12c5977b.chunk.js",
+    "static/css/main.5c603e17.chunk.css",
+    "static/js/main.6d0685ca.chunk.js"
   ]
 }

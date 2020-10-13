@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,EACE,qBAAsB,CACtB,QAAS,CACT,SAAU,CACV,oCACF","file":"main.5c603e17.chunk.css","sourcesContent":["* {\r\n  box-sizing: border-box;\r\n  margin: 0;\r\n  padding: 0;\r\n  font-family:  'Encode Sans', sans-serif;\r\n}"]}
