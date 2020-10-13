@@ -6,7 +6,7 @@ const Signin = () => {
     <>
       <Container>
         <FormWrap>
-          <Icon to="/">Dollar</Icon>
+          <Icon to={process.env.PUBLIC_URL + '/'}>Dollar</Icon>
           <FormContent action="#">
             <Form>
               <FormH1>Sign in to account</FormH1>
